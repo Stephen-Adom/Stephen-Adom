@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Stephen Addae</h1>
-<h3 align="center">A passionate frontend developer from Ghana</h3>
+<h3 align="center">A passionate frontend developer at Interface Financial Technology and a freelancer</h3>
 
 <p align="left"> <a href="https://twitter.com/alaska67524884" target="blank"><img src="https://img.shields.io/twitter/follow/alaska67524884?logo=twitter&style=for-the-badge" alt="alaska67524884" /></a> </p>
 
