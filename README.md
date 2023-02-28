@@ -52,7 +52,7 @@ hobbies: ["Gaming", "Cinema"]
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=stephen-adom&show_icons=true&locale=en" alt="stephen-adom" /></p> -->
 [![Alaska's GitHub stats](https://github-readme-stats.vercel.app/api?username=Stephen-Adom&count_private=true&show_icons=true&theme=radical)](https://github.com/Stephen-Adom/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stephen-Adom&layout=compact&theme=radical&card_width=500px)](https://github.com/Stephen-Adom/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stephen-Adom&layout=compact&theme=radical&card_width=450px)](https://github.com/Stephen-Adom/github-readme-stats)
 
 <h2> 📈 &nbsp;My GitHub History!</h2>
 
