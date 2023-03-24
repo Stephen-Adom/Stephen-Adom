@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&text=Hi%20👋,%20I'm%20Stephen%20Addae&fontSize=50&animation=fadeIn&section=header)
 
-<h3 align="center">Hey there!👋 I'm a dedicated Front-End Developer working at Interface Financial Technology. I love what I do and would be thrilled to connect with you and chat about it. Don't hesitate to reach out to me!💻</h3>
+<h3 align="center">I'm a dedicated Front-End Developer working at Interface Financial Technology. I love what I do and would be thrilled to connect with you and chat about it. Don't hesitate to reach out to me!💻</h3>
 
 <p align="center">
   <img src= "https://media.giphy.com/media/Nzz86dByLtYTS/giphy.gif">
