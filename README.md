@@ -54,6 +54,8 @@ hobbies: ["Gaming", "Cinema"]
 [![Alaska's GitHub stats](https://github-readme-stats.vercel.app/api?username=Stephen-Adom&count_private=true&show_icons=true&theme=radical)](https://github.com/Stephen-Adom/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stephen-Adom&layout=compact&theme=radical&card_width=450px)](https://github.com/Stephen-Adom/github-readme-stats)
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Stephen-Adom&theme=dark)](https://git.io/streak-stats)
+
 <h2> 📈 &nbsp;My GitHub History!</h2>
 
 ![Snake animation](https://github.com/Stephen-Adom/Stephen-Adom/blob/output/github-contribution-grid-snake.svg)
