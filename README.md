@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&text=Hi%20👋,%20I'm%20Stephen%20Addae&fontSize=50&animation=fadeIn&section=header)
 
-<h3 align="center">I'm a dedicated Front-End Developer working at Interface Financial Technology. I love what I do and would be thrilled to connect with you and chat about it. Don't hesitate to reach out to me!💻</h3>
+<h3 align="center">I'm a  Full-stack Software engineer with 4 years of experience as a front-end developer at Interface Financial Technology. I love what I do and would be thrilled to connect with you and chat about it. Don't hesitate to reach out to me!💻</h3>
 
 <p align="center">
   <img src= "https://media.giphy.com/media/Nzz86dByLtYTS/giphy.gif">
@@ -13,17 +13,17 @@
 ```yaml
 name: Stephen Addae
 located_in: Accra, Ghana
-current_job: Front-End Developer
+current_job: Full-stack Software Engineer
 education:
   [
-    "Self-Taught Developer and a student at Micrcoverse",
+    "A full-stack software engineer at Microverse",
     "Bachelor's In Information Technology",
   ]
 company: Interface Financial Technology
 
 fields_of_interests:
   [
-    "Web Development",
+    "Software Engineering",
     "UI/UX",
     "DevOps",
   ]
@@ -33,8 +33,6 @@ technical_background:
     "Senior - UI Developer in Angular Framework",
     "Student - React and Ruby on Rails at Microverse",
   ]
-  
-currently_learning: ["Docker, React and Ruby on Rails"]
 hobbies: ["Gaming", "Cinema"]
 ```
   
